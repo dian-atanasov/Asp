@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\02. MultiViewControl\bin\_02.MultiViewControl.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\02. MultiViewControl\bin\_02.MultiViewControl.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\02. MultiViewControl\obj\Debug\_02.MultiViewControl.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\02. MultiViewControl\obj\Debug\_02.MultiViewControl.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\02. MultiViewControl\obj\Debug\02. MultiViewControl.csprojResolveAssemblyReference.cache

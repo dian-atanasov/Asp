@@ -1,0 +1,42 @@
+﻿html{
+     height: 100%;
+}
+
+*{ 
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+    background: none repeat scroll 0 0 #025587;
+    height: 240px;
+}
+
+li {
+    float:left;
+    list-style: none outside none;
+}
+
+ li a {
+     background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font: 100% 'lucida sans unicode',arial,sans-serif;
+    height: 37px;
+    letter-spacing: 0.1em;
+    padding: 29px 26px 6px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#menubar {
+    background: url("menu.png") repeat-x scroll 0 0 #29415D;
+    height: 72px;
+    padding: 0;
+    width: 877px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+

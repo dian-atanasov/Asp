@@ -1,0 +1,7 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\bin\_04.StudentRegistrationForm.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\bin\_04.StudentRegistrationForm.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\obj\Debug\_04.StudentRegistrationForm.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\obj\Debug\_04.StudentRegistrationForm.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\obj\Debug\04. StudentRegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\bin\Telerik.Web.UI.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\WebControls\04. StudentRegistrationForm\bin\Telerik.Web.UI.xml

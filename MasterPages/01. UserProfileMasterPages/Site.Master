@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" 
+    Inherits="_01.UserProfileMasterPages.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="StyleSheetMasterPage.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header id="banner" class="body">
+            <h1><a href="#">Dian Atanasov's web site</a></h1>
+
+            <nav>
+                <ul>
+                    <li class="active"><a href="~/Home.aspx" runat="server">Home</a></li>
+                    <li><a href="~/PersonalInfo.aspx" runat="server">Personal Info</a></li>
+                    <li><a id="A1" href="~/Additional Info.aspx" runat="server">Additional Info</a></li>
+                </ul>
+            </nav>
+        </header>
+
+
+        <section id="main-content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">    
+                    
+            </asp:ContentPlaceHolder>
+        </section>
+
+                <footer id="footer">
+            (c) 2014 by Dian Atanasov. All rights reserved.
+        </footer>
+    </form>
+</body>
+</html>

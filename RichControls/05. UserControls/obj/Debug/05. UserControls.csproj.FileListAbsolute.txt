@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\05. UserControls\bin\_05.UserControls.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\05. UserControls\bin\_05.UserControls.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\05. UserControls\obj\Debug\05. UserControls.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\05. UserControls\obj\Debug\_05.UserControls.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\05. UserControls\obj\Debug\_05.UserControls.pdb

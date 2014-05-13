@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\03. DinamicallyControls\bin\_03.DinamicallyControls.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\03. DinamicallyControls\bin\_03.DinamicallyControls.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\03. DinamicallyControls\obj\Debug\_03.DinamicallyControls.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\03. DinamicallyControls\obj\Debug\_03.DinamicallyControls.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\03. DinamicallyControls\obj\Debug\03. DinamicallyControls.csprojResolveAssemblyReference.cache

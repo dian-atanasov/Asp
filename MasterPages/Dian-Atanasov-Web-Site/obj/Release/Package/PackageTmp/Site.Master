@@ -1,0 +1,40 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Dian_Atanasov_Web_Site.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta name="description" content="website description" />
+    <meta name="keywords" content="website keywords, website keywords" />
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+    <link href="Styles.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>   
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li><a href="index.aspx">Home</a></li>
+          <li><a href="resume.aspx">Resume</a></li>
+          <li><a href="page.aspx">Projects</a></li>
+          <li class="selected"><a href="contacts.aspx">Contacts</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    
+    <div id="footer">
+        Copyright &copy; Dian Atanasov
+    </div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>04/07/2014 15:30:30</publishTime>
+    </File>
+    <File Include="bin/Dian-Atanasov-Web-Site.dll">
+      <publishTime>04/08/2014 15:11:24</publishTime>
+    </File>
+    <File Include="Images/menu.png">
+      <publishTime>12/16/2010 06:30:26</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/07/2014 19:08:20</publishTime>
+    </File>
+    <File Include="Styles.css">
+      <publishTime>04/07/2014 19:27:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/08/2014 15:13:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\01. UserProfileMasterPages\bin\_01.UserProfileMasterPages.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\01. UserProfileMasterPages\bin\_01.UserProfileMasterPages.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\01. UserProfileMasterPages\obj\Debug\01. UserProfileMasterPages.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\01. UserProfileMasterPages\obj\Debug\_01.UserProfileMasterPages.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\01. UserProfileMasterPages\obj\Debug\_01.UserProfileMasterPages.pdb

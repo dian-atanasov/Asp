@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Calculator", "01. Calculator\01. Calculator.csproj", "{A56A589E-2E31-4F3E-BE8B-A7ECBEBBEFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. RandomNumberGenerator", "02. RandomNumberGenerator\02. RandomNumberGenerator.csproj", "{1F5DCF4F-3BEC-4B9E-B64F-841764E11931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. RandomNumberGenereatorAspControls", "03. RandomNumberGenereatorAspControls\03. RandomNumberGenereatorAspControls.csproj", "{73875EF3-1C80-4E98-B229-FC8B22E23A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. StudentRegistrationForm", "04. StudentRegistrationForm\04. StudentRegistrationForm.csproj", "{9592CF2D-A3A5-4A06-A2A3-613106D4C6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56A589E-2E31-4F3E-BE8B-A7ECBEBBEFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56A589E-2E31-4F3E-BE8B-A7ECBEBBEFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56A589E-2E31-4F3E-BE8B-A7ECBEBBEFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56A589E-2E31-4F3E-BE8B-A7ECBEBBEFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5DCF4F-3BEC-4B9E-B64F-841764E11931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5DCF4F-3BEC-4B9E-B64F-841764E11931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5DCF4F-3BEC-4B9E-B64F-841764E11931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5DCF4F-3BEC-4B9E-B64F-841764E11931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73875EF3-1C80-4E98-B229-FC8B22E23A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73875EF3-1C80-4E98-B229-FC8B22E23A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73875EF3-1C80-4E98-B229-FC8B22E23A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73875EF3-1C80-4E98-B229-FC8B22E23A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9592CF2D-A3A5-4A06-A2A3-613106D4C6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9592CF2D-A3A5-4A06-A2A3-613106D4C6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9592CF2D-A3A5-4A06-A2A3-613106D4C6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9592CF2D-A3A5-4A06-A2A3-613106D4C6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\04. Test\bin\_04.Test.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\04. Test\bin\_04.Test.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\04. Test\obj\Debug\04. Test.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\04. Test\obj\Debug\_04.Test.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\04. Test\obj\Debug\_04.Test.pdb

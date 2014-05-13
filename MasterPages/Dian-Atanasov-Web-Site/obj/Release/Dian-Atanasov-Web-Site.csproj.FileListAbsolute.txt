@@ -1,0 +1,4 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\Dian-Atanasov-Web-Site\bin\Dian-Atanasov-Web-Site.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\Dian-Atanasov-Web-Site\bin\Dian-Atanasov-Web-Site.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\Dian-Atanasov-Web-Site\obj\Release\Dian-Atanasov-Web-Site.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\Dian-Atanasov-Web-Site\obj\Release\Dian-Atanasov-Web-Site.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\03. Wizard\bin\_03.Wizard.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\03. Wizard\bin\_03.Wizard.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\03. Wizard\obj\Debug\03. Wizard.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\03. Wizard\obj\Debug\_03.Wizard.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\RichControls\03. Wizard\obj\Debug\_03.Wizard.pdb

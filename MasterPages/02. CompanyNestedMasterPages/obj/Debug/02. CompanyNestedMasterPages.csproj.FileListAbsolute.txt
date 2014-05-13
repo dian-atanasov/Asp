@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\02. CompanyNestedMasterPages\bin\_02.CompanyNestedMasterPages.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\02. CompanyNestedMasterPages\bin\_02.CompanyNestedMasterPages.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\02. CompanyNestedMasterPages\obj\Debug\_02.CompanyNestedMasterPages.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\02. CompanyNestedMasterPages\obj\Debug\_02.CompanyNestedMasterPages.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\MasterPages\02. CompanyNestedMasterPages\obj\Debug\02. CompanyNestedMasterPages.csprojResolveAssemblyReference.cache

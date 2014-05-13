@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TextBoxValidationForCorrectRange", "01. TextBoxValidationForCorrectRange\01. TextBoxValidationForCorrectRange.csproj", "{301B74D4-7378-449D-90BC-CE062EFE76BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ValidatedUserForm", "02. ValidatedUserForm\02. ValidatedUserForm.csproj", "{4597407D-6B02-4F68-8A9A-DC3445A1E65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301B74D4-7378-449D-90BC-CE062EFE76BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301B74D4-7378-449D-90BC-CE062EFE76BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301B74D4-7378-449D-90BC-CE062EFE76BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301B74D4-7378-449D-90BC-CE062EFE76BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4597407D-6B02-4F68-8A9A-DC3445A1E65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4597407D-6B02-4F68-8A9A-DC3445A1E65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4597407D-6B02-4F68-8A9A-DC3445A1E65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4597407D-6B02-4F68-8A9A-DC3445A1E65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

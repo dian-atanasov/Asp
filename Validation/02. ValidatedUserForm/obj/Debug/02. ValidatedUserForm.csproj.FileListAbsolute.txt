@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\02. ValidatedUserForm\bin\_02.ValidatedUserForm.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\02. ValidatedUserForm\bin\_02.ValidatedUserForm.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\02. ValidatedUserForm\obj\Debug\02. ValidatedUserForm.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\02. ValidatedUserForm\obj\Debug\_02.ValidatedUserForm.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\Validation\02. ValidatedUserForm\obj\Debug\_02.ValidatedUserForm.pdb

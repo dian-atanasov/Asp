@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPageBulgaria.master.cs" Inherits="_02.CompanyNestedMasterPages.Bulgaria.NestedMasterPageBulgaria" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderHeader" runat="server">
+
+<%--        <asp:Image ID="HomeButton" runat="server" Height="30px" 
+            ImageUrl="~/Images/home.png" Width="30px" />--%>
+    <asp:HyperLink ID="HyperLinkHome" runat="server" 
+        ImageUrl="~/Images/home.png" cssClass="home-button"
+        NavigateUrl="~/WebFormMainPage.aspx" ImageWidth="30px">HyperLink</asp:HyperLink>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderPageContent" runat="server">
+    <header id="header-bulgaria">
+        <div id="header-hearbal">Herbals</div>
+    </header>
+
+    <nav class="navigation">
+        <ul>
+            <li><a href="Home.aspx">Home</a></li>
+            <li><a href="Herbals.aspx">Herbals</a></li>
+            <li><a href="Prescription.aspx">Рrescription</a></li>
+            <li><a href="About.aspx">About</a></li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderBulgariaArea" runat="server" />
+    </div>
+</asp:Content>

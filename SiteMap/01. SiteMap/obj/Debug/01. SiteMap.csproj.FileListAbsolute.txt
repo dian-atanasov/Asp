@@ -1,0 +1,5 @@
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\SiteMap\01. SiteMap\bin\_01.SiteMap.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\SiteMap\01. SiteMap\bin\_01.SiteMap.pdb
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\SiteMap\01. SiteMap\obj\Debug\01. SiteMap.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\SiteMap\01. SiteMap\obj\Debug\_01.SiteMap.dll
+C:\Users\Dido\Documents\Visual Studio 2012\Projects\ASP.NET_WEB_FORMS\SiteMap\01. SiteMap\obj\Debug\_01.SiteMap.pdb

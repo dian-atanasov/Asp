@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. UserProfileMasterPages", "01. UserProfileMasterPages\01. UserProfileMasterPages.csproj", "{2C741EBB-9C5F-4E41-838F-D5056E25F9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CompanyNestedMasterPages", "02. CompanyNestedMasterPages\02. CompanyNestedMasterPages.csproj", "{3CBC13D0-53BA-4DAE-A539-4F938043325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dian-Atanasov-Web-Site", "Dian-Atanasov-Web-Site\Dian-Atanasov-Web-Site.csproj", "{9DEF3BE6-24B9-4795-917B-FAC77E31DD0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C741EBB-9C5F-4E41-838F-D5056E25F9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C741EBB-9C5F-4E41-838F-D5056E25F9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C741EBB-9C5F-4E41-838F-D5056E25F9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C741EBB-9C5F-4E41-838F-D5056E25F9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CBC13D0-53BA-4DAE-A539-4F938043325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBC13D0-53BA-4DAE-A539-4F938043325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBC13D0-53BA-4DAE-A539-4F938043325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBC13D0-53BA-4DAE-A539-4F938043325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEF3BE6-24B9-4795-917B-FAC77E31DD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEF3BE6-24B9-4795-917B-FAC77E31DD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEF3BE6-24B9-4795-917B-FAC77E31DD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEF3BE6-24B9-4795-917B-FAC77E31DD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

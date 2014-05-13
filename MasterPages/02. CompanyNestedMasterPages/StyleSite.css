@@ -1,0 +1,61 @@
+﻿body {
+}
+
+#header {
+    background:#52535a;
+    padding:10px;
+}
+
+#header-bulgaria {
+    background:#d85c5c;
+    padding:10px;
+}
+
+#footer {
+    background:#52535a;
+    padding:10px;
+    clear:both;
+}
+
+.home-button {
+    
+    width:30px;
+    height:30px
+}
+
+.navigation {
+    width:200px;
+    float:left;
+    background-color:#ff7d00;
+
+}
+
+
+
+.bulgaria-flag {
+    background-image:url('Images/flag-bulgaria.png')
+}
+
+.canada-flag {
+    background-image:url('Images/flag-canada.png')
+}
+
+.canada-flag , .bulgaria-flag  {
+    display: inline-block;
+    /*width: 135px;
+    height: 130px;*/
+    border: 3px solid #ff7d00;
+    border-radius: 3px;
+    background-color: rgba(255, 106, 0, 0.40);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 20px;
+    margin: 15px;
+    font-size: 18pt;
+    color: #271674;
+    font-weight: bold;
+    font-family: Arial;
+}
